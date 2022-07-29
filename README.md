@@ -1,1 +1,1 @@
-# jjdzr6-java-the-hutt
+Project from Java Course in InfoShare Academy (in progress).
