@@ -1,1 +1,1 @@
-Command line version of project from Java Course in InfoShare Academy.
+Command line version (prototype) of InfoShare's Academy project (Java Course).
